@@ -2,7 +2,7 @@
 An Osint tool for getting information by **IP**.
 This tool was created by Makksaw.
 
-# How To install SearchByIP-OSINT on termux:
+## How To install SearchByIP-OSINT on termux:
 ```
 apt update && apt upgrade 
 
@@ -18,7 +18,7 @@ cd searchbyip
 
 pip install -r requirements.txt
 ```
-# Installation for Ubuntu/Debian/Kali Linux:
+## Installation for Ubuntu/Debian/Kali Linux:
 ```
 sudo apt update && sudo apt upgrade 
 
@@ -34,7 +34,7 @@ cd searchbyip
 
 pip install -r requirements.txt
 ```
-# Usage:
+## Usage:
 ```
 python3 main.py
 ```
