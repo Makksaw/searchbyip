@@ -42,5 +42,7 @@ python3 main.py
 **Support Developer by**
 
 Following me on GitHub
+
 Leave a star
+
 Fork this repository
